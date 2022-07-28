@@ -1,7 +1,7 @@
 body {
     font-size:1rem;
     font-family:'Poppins',sans-serif;
-    background:url(/images/bg-mobile.svg);
+    background:url(bg-mobile.svg);
     background-color:hsl(257, 40%, 49%);
     background-size:cover;
     background-repeat:no-repeat;
@@ -107,7 +107,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background:url(/images/bg-desktop.svg);
+  background:url(bg-desktop.svg);
   background-color:hsl(257, 40%, 49%);
   background-size:cover;
   background-repeat:no-repeat;
@@ -115,7 +115,6 @@ body{
 
 .wrapper{
   padding:25px;
-  /*border:2px solid red;*/
 }
 
 .brand img{
@@ -123,7 +122,6 @@ body{
 }
 
 main{
- /* border:2px solid green;*/
   flex-direction:row-reverse;
   gap:30px;
 }
