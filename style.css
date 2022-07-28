@@ -60,8 +60,8 @@ body {
   margin-top:25px;
   color:hsl(257, 40%, 49%);
   background:#fff;
-  font-size:0.8rem;
-  font-weight:400;
+  font-size:0.9rem;
+  font-weight:450;
   box-shadow:3px 3px 3px #000;
   border-radius:20px;
   cursor:pointer;
@@ -135,7 +135,7 @@ main .mockup{
 
 .mockup img{
   background-size:cover;
-  width:40rem;
+  width:35rem;
 }
 
 main .para{
@@ -144,11 +144,14 @@ main .para{
 
 .para h2{
   text-align:left;
-  font-size:2rem;
+  font-size:2.3rem;
+  font-weight:700;
   font-weight:600;
 }
 
 .para p{
+  width:60%;
+  font-weight:500;
   text-align:left;
   padding:5px 10px 10px 10px;
 }
