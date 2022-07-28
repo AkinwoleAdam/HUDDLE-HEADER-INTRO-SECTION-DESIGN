@@ -127,6 +127,9 @@ main{
 }
 
 main .mockup{
+  display:flex;
+  flex-direction: column;
+  justify-content:space-around;
   padding:5px 0px;
 }
 
